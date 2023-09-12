@@ -1,0 +1,42 @@
+[
+    {
+        "Data": "Aug 29, 2023 1:49:37 PM",
+        "Stato": "detail creation confirmed",
+        "Luogo": "Citt\u00e0: N\/A, Provincia: N\/A, Codice Paese: N\/A, Codice Postale: N\/A"
+    },
+    {
+        "Data": "Aug 29, 2023 6:38:16 PM",
+        "Stato": "detail pickedUp",
+        "Luogo": "Citt\u00e0: Bergamo, Provincia: Lombardy, Codice Paese: IT, Codice Postale: 24040"
+    },
+    {
+        "Data": "Aug 29, 2023 6:38:16 PM",
+        "Stato": "arrived at sort center",
+        "Luogo": "Citt\u00e0: Bergamo, Provincia: Lombardy, Codice Paese: IT, Codice Postale: 24040"
+    },
+    {
+        "Data": "Aug 29, 2023 10:47:02 PM",
+        "Stato": "detail departed",
+        "Luogo": "Citt\u00e0: Bergamo, Provincia: Lombardy, Codice Paese: IT, Codice Postale: 24040"
+    },
+    {
+        "Data": "Aug 30, 2023 4:48:02 AM",
+        "Stato": "arrived at sort center",
+        "Luogo": "Citt\u00e0: Udine, Provincia: Udine, Codice Paese: IT, Codice Postale: 33010"
+    },
+    {
+        "Data": "Aug 30, 2023 8:52:08 AM",
+        "Stato": "detail arrived at delivery Center",
+        "Luogo": "Citt\u00e0: Udine, Provincia: Udine, Codice Paese: IT, Codice Postale: 33010"
+    },
+    {
+        "Data": "Aug 30, 2023 8:52:10 AM",
+        "Stato": "detail departed",
+        "Luogo": "Citt\u00e0: Udine, Provincia: Udine, Codice Paese: IT, Codice Postale: 33010"
+    },
+    {
+        "Data": "Aug 30, 2023 11:18:10 AM",
+        "Stato": "detail delivered",
+        "Luogo": "Citt\u00e0: N\/A, Provincia: N\/A, Codice Paese: N\/A, Codice Postale: N\/A"
+    }
+]

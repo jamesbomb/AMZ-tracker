@@ -1,0 +1,42 @@
+[
+    {
+        "Data": "Aug 29, 2023 1:39:45 PM",
+        "Stato": "detail creation confirmed",
+        "Luogo": "Citt\u00e0: N\/A, Provincia: N\/A, Codice Paese: N\/A, Codice Postale: N\/A"
+    },
+    {
+        "Data": "Aug 29, 2023 6:36:46 PM",
+        "Stato": "detail pickedUp",
+        "Luogo": "Citt\u00e0: Bergamo, Provincia: Lombardy, Codice Paese: IT, Codice Postale: 24040"
+    },
+    {
+        "Data": "Aug 29, 2023 6:36:46 PM",
+        "Stato": "arrived at sort center",
+        "Luogo": "Citt\u00e0: Bergamo, Provincia: Lombardy, Codice Paese: IT, Codice Postale: 24040"
+    },
+    {
+        "Data": "Aug 29, 2023 9:58:48 PM",
+        "Stato": "detail departed",
+        "Luogo": "Citt\u00e0: Bergamo, Provincia: Lombardy, Codice Paese: IT, Codice Postale: 24040"
+    },
+    {
+        "Data": "Aug 30, 2023 3:31:33 AM",
+        "Stato": "arrived at sort center",
+        "Luogo": "Citt\u00e0: Cortemaggiore, Provincia: PIACENZA, Codice Paese: IT, Codice Postale: 29016"
+    },
+    {
+        "Data": "Aug 30, 2023 3:49:33 AM",
+        "Stato": "arrived at sort center",
+        "Luogo": "Citt\u00e0: Parma, Provincia: Parma, Codice Paese: IT, Codice Postale: 43122"
+    },
+    {
+        "Data": "Aug 30, 2023 9:00:29 AM",
+        "Stato": "detail arrived at delivery Center",
+        "Luogo": "Citt\u00e0: Cortemaggiore, Provincia: PIACENZA, Codice Paese: IT, Codice Postale: 29016"
+    },
+    {
+        "Data": "Aug 30, 2023 2:58:15 PM",
+        "Stato": "detail delivered",
+        "Luogo": "Citt\u00e0: N\/A, Provincia: N\/A, Codice Paese: N\/A, Codice Postale: N\/A"
+    }
+]

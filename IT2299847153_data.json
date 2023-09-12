@@ -1,0 +1,42 @@
+[
+    {
+        "Data": "Aug 30, 2023 10:56:32 AM",
+        "Stato": "detail creation confirmed",
+        "Luogo": "Citt\u00e0: N\/A, Provincia: N\/A, Codice Paese: N\/A, Codice Postale: N\/A"
+    },
+    {
+        "Data": "Aug 30, 2023 4:48:02 PM",
+        "Stato": "detail pickedUp",
+        "Luogo": "Citt\u00e0: Rome, Provincia: Lazio, Codice Paese: IT, Codice Postale: 00065"
+    },
+    {
+        "Data": "Aug 30, 2023 4:48:02 PM",
+        "Stato": "arrived at sort center",
+        "Luogo": "Citt\u00e0: Rome, Provincia: Lazio, Codice Paese: IT, Codice Postale: 00065"
+    },
+    {
+        "Data": "Aug 31, 2023 8:02:45 AM",
+        "Stato": "detail departed",
+        "Luogo": "Citt\u00e0: Rome, Provincia: Lazio, Codice Paese: IT, Codice Postale: 00065"
+    },
+    {
+        "Data": "Sep 1, 2023 5:08:15 AM",
+        "Stato": "arrived at sort center",
+        "Luogo": "Citt\u00e0: Palermo, Provincia: Palermo, Codice Paese: IT, Codice Postale: 90124"
+    },
+    {
+        "Data": "Sep 1, 2023 8:26:43 AM",
+        "Stato": "detail arrived at delivery Center",
+        "Luogo": "Citt\u00e0: Palermo, Provincia: Palermo, Codice Paese: IT, Codice Postale: 90124"
+    },
+    {
+        "Data": "Sep 1, 2023 8:26:46 AM",
+        "Stato": "detail departed",
+        "Luogo": "Citt\u00e0: Palermo, Provincia: Palermo, Codice Paese: IT, Codice Postale: 90124"
+    },
+    {
+        "Data": "Sep 1, 2023 10:00:49 AM",
+        "Stato": "detail delivered",
+        "Luogo": "Citt\u00e0: N\/A, Provincia: N\/A, Codice Paese: N\/A, Codice Postale: N\/A"
+    }
+]
